@@ -1,0 +1,18 @@
+
+License issues: 
+
+Because the format of the example models doesn't allow a license comment, all
+files associated with this script should be understood to have the license,
+indicated in the file LICENSE, applied to them.
+
+Also note that the license is based on the MIT license, but has a few extra 
+stipulations.
+
+General Information:
+
+This software is for use with Blender 2.49, and is under development. It allows 
+for RWX script based models to be imported to Blender for modification.  Some
+commands not in use by Activeworlds, Inc.'s current Renderware system have been
+ignored (JointTransformBegin and similar Joint* commands).
+
+Should there be a need for these they can be added easily.
