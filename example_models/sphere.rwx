@@ -1,0 +1,22 @@
+ModelBegin 
+  ClumpBegin 
+    Color 1.0 0.0 0.0 
+    Surface 0.5 0.5 0.5 
+    Sphere 0.5 0
+  ClumpEnd
+  ClumpBegin 
+    Color 0.0 1.0 0.0 
+    Translate 1 0 0
+    Sphere 0.5 1
+  ClumpEnd
+  ClumpBegin 
+    Color 0.0 1.0 0.0 
+    Translate 2 0 0
+    Sphere 0.5 2
+  ClumpEnd
+  ClumpBegin 
+    Color 0.0 1.0 0.0 
+    Translate 3 0 0
+    Sphere 0.5 3
+  ClumpEnd
+ModelEnd
